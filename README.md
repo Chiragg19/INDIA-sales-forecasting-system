@@ -14,7 +14,7 @@ This project demonstrates a full data lifecycle, from generating synthetic trans
  Visualizations
 1. Revenue Trajectory & Q2 Forecast
 This chart displays historical monthly revenue (April 2024 – Feb 2026) and projects growth into the next quarter.
-![Revenue Forecast](executive_forecast(1).png)
+![Revenue Forecast](executive_forecast.png)
 
  2. Regional Revenue Distribution
 A breakdown of total revenue by city, highlighting the dominance of key market hubs.
