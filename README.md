@@ -26,6 +26,6 @@ A breakdown of total revenue by city, highlighting the dominance of key market h
 
  Technical Stack
  
- Language: Python 3.10+
- Libraries:Pandas, NumPy, Matplotlib
- Methodology: Object-Oriented Programming (OOP)
+ Language: Python 3.10+     
+ Libraries:Pandas, NumPy, Matplotlib      
+ Methodology: Object-Oriented Programming (OOP)     
