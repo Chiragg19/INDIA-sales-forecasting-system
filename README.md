@@ -7,11 +7,11 @@ This project demonstrates a full data lifecycle, from generating synthetic trans
 
  Key Technical Features
  
- Data Engineering: Automated generation of 20,000+ transaction records.
- Market Weighting: Applied a 1.25x revenue multiplier for Tier-1 cities (Mumbai & Bengaluru) to simulate higher purchasing power.
- Predictive Modeling: Implemented a Linear Regression model to forecast Q2 2026 revenue.
- Anchored Forecasting: Developed a seamless transition logic that connects historical data points directly to projections to eliminate statistical variance gaps.
-
+ Data Engineering: Automated generation of 20,000+ transaction records.              
+ Market Weighting: Applied a 1.25x revenue multiplier for Tier-1 cities (Mumbai & Bengaluru) to simulate higher purchasing power.             
+ Predictive Modeling: Implemented a Linear Regression model to forecast Q2 2026 revenue.        
+ Anchored Forecasting: Developed a seamless transition logic that connects historical data points directly to projections to eliminate statistical variance gaps.         
+ 
  Visualizations
  
 1. Revenue Trajectory & Q2 Forecast
