@@ -29,5 +29,3 @@ A breakdown of total revenue by city, highlighting the dominance of key market h
  Language: Python 3.10+     
  Libraries:Pandas, NumPy, Matplotlib      
  Methodology: Object-Oriented Programming (OOP)     
- 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chiragg19/INDIA-sales-forecasting-system/blob/main/sales_pipeline.py)
