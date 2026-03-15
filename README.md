@@ -19,7 +19,7 @@ This project demonstrates a full data lifecycle, from generating synthetic trans
 This chart displays historical monthly revenue (April 2024 – Feb 2026) and projects growth into the next quarter.
 ![Revenue Forecast](executive_forecast.png)
 
- 3. Regional Revenue Distribution
+2. Regional Revenue Distribution
     
 A breakdown of total revenue by city, highlighting the dominance of key market hubs.
 ![Regional Breakdown](regional_revenue_breakdown.png)
